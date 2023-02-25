@@ -6,7 +6,7 @@
     margin: 0 auto;
 }
 
-.vrapper-header{
+.wrapper-header{
     display: flex;
     justify-content: space-between;
     padding: 30px 0;
